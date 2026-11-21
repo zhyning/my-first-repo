@@ -1,6 +1,6 @@
 # my-first-repo
-Hi, I'm ___ 👋
-I'm a student in grade ___ in the San Fernando Valley, learning AI and data science with the Valley AI Club.
+Hi, I'm __YZ_ 👋
+I'm a parent of student in the San Fernando Valley, learning AI and data science with the Valley AI Club.
 
 About me
 I'm interested in: cooking and drawing
